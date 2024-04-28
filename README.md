@@ -15,8 +15,9 @@ Hi there! I'm a BCA student at The Oxford College of Science in Bangalore with a
 - Core Java
 
 ## 🔗 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/sourav-garai-9b57022b6/)
+- 🌐 LinkedIn: [Sourav-garai](https://www.linkedin.com/in/sourav-garai-9b57022b6/)
 - 📫 Email: [garaisourav143@gmail.com](garaisourav143@gmail.com)
+- 📸 Instagram: [__s__o__u__r_a__v__](https://www.instagram.com/__s__o__u__r_a__v__/)
 
 ## 📄 Know About My Experience
 Check out my [resume](https://github.com/sourav755/sourav755/blob/main/sourav_resume%20(1).pdf).
