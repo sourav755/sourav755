@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sourav
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Coming+Soon)
+![Profile Banner](https://github.com/sourav755/sourav755/blob/main/profile-banner-2.webp)
 
 ### Aspiring Full-Stack Web Developer
 
