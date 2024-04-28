@@ -10,7 +10,7 @@ Hi there! I'm a BCA student at The Oxford College of Science in Bangalore with a
 ## 🧑‍💻 About Me
 - From Jamshedpur, Jharkhand
 - Pursuing BCA in Bangalore
-- Skills: **HTML, CSS, JavaScript, React, Bootstrap, Core Java**
+- Skills: **HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Core Java**
 - Currently learning **React.js**
 
 ## 💻 Current Projects
@@ -23,8 +23,8 @@ Hi there! I'm a BCA student at The Oxford College of Science in Bangalore with a
 - **Tools**: Git, GitHub
 
 ## 📬 Contact Me
-- Connect on [LinkedIn](#)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Connect on [LinkedIn](https://www.linkedin.com/in/sourav-garai-9b57022b6/)
+- Email: [garaisourav143@gmail.com](garaisourav143@gmail.com)
 
 ## 🌟 Fun Facts
 - Enjoy learning new web technologies and participating in coding challenges
