@@ -16,7 +16,7 @@ Hi there! I'm a BCA student at The Oxford College of Science in Bangalore with a
 
 ## 🔗 Connect With Me
 - 🌐 LinkedIn: [Sourav-garai](https://www.linkedin.com/in/sourav-garai-9b57022b6/)
-- 📫 Email: [garaisourav143@gmail.com](garaisourav143@gmail.com)
+- 📫 Email: [garaisourav143@gmail.com](mailto:garaisourav143@gmail.com)
 - 📸 Instagram: [__s__o__u__r_a__v__](https://www.instagram.com/__s__o__u__r_a__v__/)
 
 ## 📄 Know About My Experience
@@ -35,10 +35,13 @@ I learn quickly and enjoy exploring new technologies.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourav755&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sourav755)
+
+## 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav755&layout=compact&theme=radical)
 
 ## ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
