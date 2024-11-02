@@ -5,7 +5,7 @@
 ### Aspiring Full-Stack Web Developer
 
 ## 🧑‍💻 About Me
-Hi there! I'm a BCA student at The Oxford College of Science in Bangalore with a passion for web development. My goal is to become a full-stack web developer, and I'm currently honing my skills in **React.js**.
+👋 Hi there! I'm a MCA student at Jain University in Bangalore with a focus on Java development. My goal is to become a full-stack Java developer, and I'm currently honing my skills in Java as I deepen my understanding of backend technologies.
 
 ## 💬 Ask Me About
 - HTML, CSS, JavaScript
