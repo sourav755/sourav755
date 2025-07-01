@@ -20,7 +20,7 @@
 - 📸 Instagram: [__s__o__u__r_a__v__](https://www.instagram.com/__s__o__u__r_a__v__/)
 
 ## 📄 Know About My Experience
-Check out my [resume](https://github.com/sourav755/sourav755/blob/main/sg_resume (2).pdf)
+Check out my [resume](https://github.com/sourav755/sourav755/blob/main/sg_resume%20(2).pdf)
 
 ## ⚡ Fun Fact
 I learn quickly and enjoy exploring new technologies.
