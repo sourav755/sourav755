@@ -41,7 +41,8 @@ I learn quickly and enjoy exploring new technologies.
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sourav755)
 
 ## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav755&layout=compact&theme=radical)
+![GitHub Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav755&theme=radical)
+
 
 ## ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
